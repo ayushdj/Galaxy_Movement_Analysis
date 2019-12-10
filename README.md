@@ -9,3 +9,9 @@ Cold Dark Matter (CDM) has been a very successful theory on length scales in the
 # Introduction
 
 Dark Matter is one of the most popularly researched topics in astrophysics today, as this theorized particle is responsible for roughly 85% of the mass of current observable universe. However the main challenge associated with studying this particle is that it is not directly observable, as it does not emit any light. As a result, we used simulated data,specifically from the Illustris-1 Simulation [http://www.illustris-project.org/]. The major motivating factor of this project was the fact that Cold Dark Matter (CDM) has provided a strong theoretical framework for the structure and formation of typical large bright galaxies such as the Milky Way galaxy.
+
+# Research Goals
+
+We aimed to determine whether the velocity dispersion profiles of light-emitting satellite galaxies (galaxies that are gravitationally bound to and orbiting, larger “host” galaxies) accurately trace the velocity dispersion profiles of the CDM halos that surround large and bright galaxies. If there is a similarity, then the conclusion will be that observers should seek to use the motions of satellite galaxies (with respect to their hosts) in order to infer the motion of dark matter in the universe.
+
+* Please refer to the poster presentation for the figures and findings *
